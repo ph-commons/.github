@@ -1,14 +1,20 @@
 # Philippine Commons
 
-Agent-native CLIs for **Philippine public data** — government, markets, and other public PH sources. Local-first substrates for tool-makers and agents.
+Agent-native **Philippine-based CLIs** — government and everything else in the family.
 
-Not government-only. **PSE is private** and in scope as market data.
+**gov + others.** PAGASA, PSE, cinema (nowshowing), registries, and future PH-scoped tools eventually live here. Not government-only.
 
-> **Unofficial.** Not affiliated with upstream operators (agencies, exchanges, or publishers). Never use these tools for life-safety decisions, regulatory submissions, or as a substitute for official/licensed feeds.
+> **Unofficial.** Not affiliated with upstream operators. Never use for life-safety, regulatory filing, or as a substitute for official/licensed feeds.
 
-**Hub:** [ph-commons/ph-commons](https://github.com/ph-commons/ph-commons) (charter, family index, rules)
+**Hub:** [ph-commons/ph-commons](https://github.com/ph-commons/ph-commons)
 
-### Reference CLIs (personal repos today)
+### Reference today (personal repos)
 
-- [pagasa-pp-cli](https://github.com/ngpestelos/pagasa-pp-cli) — PAGASA weather / cyclones (government)
-- [pse-edge-pp-cli](https://github.com/ngpestelos/pse-edge-pp-cli) — PSE Edge quotes & filings (**private** exchange)
+- [pagasa-pp-cli](https://github.com/ngpestelos/pagasa-pp-cli) — PAGASA (gov)
+- [pse-edge-pp-cli](https://github.com/ngpestelos/pse-edge-pp-cli) — PSE Edge (private)
+
+### Heading here eventually
+
+- [nowshowing-pp-cli](https://github.com/ngpestelos/nowshowing-pp-cli) — cinema schedules
+- [ph-sec-pp-cli](https://github.com/ngpestelos/ph-sec-pp-cli) — SEC registry (narrow)
+- Other Philippine-based CLIs as they earn a place
